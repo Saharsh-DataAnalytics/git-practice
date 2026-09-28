@@ -2,3 +2,4 @@ Heygit status I am learning Git and GitHub.
 I have created my first  Git commit
 I am trying the whole procedure again
 This change is for my new branch
+I have succesfully pushed my first change to GitHub
